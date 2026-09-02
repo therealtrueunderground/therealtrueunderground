@@ -41,7 +41,7 @@
 <h2 align="center">📊  GitHub stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talvnn&show_icons=true&theme=vision-friendly-dark" height="170" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=therealtrueunderground&show_icons=true&theme=vision-friendly-dark" height="170" alt="stats card" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=talvnn&theme=vision-friendly-dark" height="170" alt="streak card" />
   <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talvnn&layout=compact&theme=vision-friendly-dark" height="170" alt="languages card" />
 </div>
