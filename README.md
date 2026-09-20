@@ -1,6 +1,8 @@
 <!-- Banner -->
 
-<!-- Soon -->
+<a href="https://talvnn.me">
+  <img src="banner.jpg" alt="Banner" width="100%">
+</a>
 
 <!-- About me -->
 
