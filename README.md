@@ -43,8 +43,8 @@
 <h2 align="center">📊 GitHub stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-a8gfmxmxf-talvn.vercel.app/api?username=therealtrueunderground&show_icons=true&theme=vision-friendly-dark" height="170" alt="stats card" />
+  <img src="https://github-readme-stats-five-zeta-31.vercel.app/api?username=therealtrueunderground&show_icons=true&theme=vision-friendly-dark" height="170" alt="stats card" />
   <img src="https://streak-stats.demolab.com?user=therealtrueunderground&theme=vision-friendly-dark" height="170" alt="streak card" />
   <br />
-  <img src="https://github-readme-stats-a8gfmxmxf-talvn.vercel.app/api/top-langs/?username=therealtrueunderground&layout=compact&theme=vision-friendly-dark" height="170" alt="languages card" />
+  <img src="https://github-readme-stats-five-zeta-31.vercel.app/api/top-langs/?username=therealtrueunderground&layout=compact&theme=vision-friendly-dark" height="170" alt="languages card" />
 </div>
